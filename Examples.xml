@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Data>
+    <Folders>
+        <Folder>
+            <Title>Features Comparison</Title>
+            <Description>
+Contain the code comparison for features in Apache POI SL SDK and Aspose.Slides
+These examples are helpful for developers who want to compare Apache POI with Aspose OR migrate from Apache POI to Aspose.
+            </Description>
+            <FolderName>featurescomparison</FolderName>
+            <Order>1</Order>
+            <Folders>
+<Folder>
+	<Title>Working with Presentation</Title>
+	<Description>This folder contain the examples to deal with presentations.</Description>
+	<FolderName>workingwithpresentation</FolderName>
+	<Order>1</Order>
+	<Examples>
+		<Example>
+			<Title>Create New Presentation</Title>
+			<Description>How to create new presentation.</Description>
+			<FolderName>createnewpresentation</FolderName>
+			<Order>1</Order>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\NewPPT_Aspose_Out.ppt</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\NewPPT_Apache_Out.ppt</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Open and Save</Title>
+			<Description>How to open and save presentations.</Description>
+			<FolderName>openandsave</FolderName>
+			<Order>2</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\presentation.pptx</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\presentation.ppt</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\EditedPPT_Aspose_Out.ppt</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\EditedPPT_Apache_Out.pptx</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Add Slides to Presentation</Title>
+			<Description>How to add new slides to existing presentation.</Description>
+			<FolderName>addslides</FolderName>
+			<Order>3</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\presentation.pptx</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\SlidesAdded_Aspose_Out.pptx</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\AddSlides_Apache_Out.ppt</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Delete Slides from Presentation</Title>
+			<Description>How to delete slides from presentations.</Description>
+			<FolderName>deleteslides</FolderName>
+			<Order>4</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\presentation.pptx</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\DeleteSlides_Aspose_Out.pptx</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\DeleteSlide_Apache_Out.ppt</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Count Number of Slides</Title>
+			<Description>Count number of slides in presentation.</Description>
+			<FolderName>countslides</FolderName>
+			<Order>5</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\presentation.ppt</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\presentation.pptx</Path>
+				</DataFile>
+			</InputFiles>
+			<Type>Console</Type>
+		</Example>
+	</Examples>
+</Folder>
+<Folder>
+	<Title>Working with Slides</Title>
+	<Description>This folder contain the examples to deal with presentation slides.</Description>
+	<FolderName>workingwithslides</FolderName>
+	<Order>2</Order>
+	<Examples>
+		<Example>
+			<Title>Add Background to Slides</Title>
+			<Description>How to add background to slides.</Description>
+			<FolderName>addbackground</FolderName>
+			<Order>1</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\background.jpg</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\AsposeBG_Out.pptx</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\AddBG_Apache_Out.ppt</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Add Images in Slide</Title>
+			<Description>How to add images in slides.</Description>
+			<FolderName>addimages</FolderName>
+			<Order>2</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\presentation.ppt</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\ImageInSlides_Apache_Out.ppt</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\ImageInSlides_Aspose_Out.pptx</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Move Slide to New Position</Title>
+			<Description>How to move slides to new position.</Description>
+			<FolderName>moveslide</FolderName>
+			<Order>3</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\presentation.ppt</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\presentation.pptx</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\Apache_ReOrdered_Slides_Out.pptx</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\Aspose_ReOrdered_Slides_Out.ppt</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Create Slides with Different Layouts</Title>
+			<Description>How to create slides with different layouts.</Description>
+			<FolderName>createslideswithdifferentlayout</FolderName>
+			<Order>4</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\presentation.pptx</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\Apache_Layouts_Out.pptx</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\LayoutSlides_Aspose_Out.pptx</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Set Slide Title</Title>
+			<Description>How to set slide title.</Description>
+			<FolderName>setslidetitle</FolderName>
+			<Order>5</Order>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\Apache_SlideTitle_Out.ppt</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\Aspose_SlideTitle_Out.pptx</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Convert Slide to Image</Title>
+			<Description>How to convert existing slides to image.</Description>
+			<FolderName>convertslidetoimage</FolderName>
+			<Order>6</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\presentation.pptx</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\Aspose_PPT-TIFF_Out.tiff</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\presentation-1.png</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\presentation-2.png</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+	</Examples>
+</Folder>
+<Folder>
+	<Title>Working with Text</Title>
+	<Description>This folder contain the examples to deal with text in presentations.</Description>
+	<FolderName>workingwithtext</FolderName>
+	<Order>3</Order>
+	<Examples>
+		<Example>
+			<Title>Format Text</Title>
+			<Description>How to format text in presentation slides.</Description>
+			<FolderName>formattext</FolderName>
+			<Order>1</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\unformatted.pptx</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\Formatted_Text_Apache_Out.pptx</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\FontFormatting_Aspose_Out.pptx</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Hyperlinks</Title>
+			<Description>How to insert hyperlinks in slides.</Description>
+			<FolderName>hyperlinks</FolderName>
+			<Order>2</Order>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\Apache_Hyperlink_Out.ppt</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\Aspose_Hyperlink_Out.pptx</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+	</Examples>
+</Folder>
+<Folder>
+	<Title>Working with Tables</Title>
+	<Description>This folder contain the examples to deal with tables in presentation.</Description>
+	<FolderName>workingwithtables</FolderName>
+	<Order>4</Order>
+	<Examples>
+		<Example>
+			<Title>Create Table</Title>
+			<Description>How to create table in presentation slides.</Description>
+			<FolderName>createtable</FolderName>
+			<Order>1</Order>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\Table_Apache_Out.ppt</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\AsposeTable_Out.pptx</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+	</Examples>
+</Folder>
+			</Folders>
+        </Folder>
+    </Folders>
+</Data>

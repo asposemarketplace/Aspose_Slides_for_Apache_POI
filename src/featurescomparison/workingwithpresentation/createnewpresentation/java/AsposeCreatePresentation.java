@@ -2,7 +2,6 @@ package featurescomparison.workingwithpresentation.createnewpresentation.java;
 
 import com.aspose.slides.Presentation;
 import com.aspose.slides.SaveFormat;
-import com.aspose.slides.Slide;
 
 public class AsposeCreatePresentation
 {

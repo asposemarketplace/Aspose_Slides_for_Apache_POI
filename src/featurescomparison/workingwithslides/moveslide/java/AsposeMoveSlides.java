@@ -1,10 +1,8 @@
 package featurescomparison.workingwithslides.moveslide.java;
 
 import com.aspose.slides.ISlide;
-import com.aspose.slides.ISlideCollection;
 import com.aspose.slides.Presentation;
 import com.aspose.slides.SaveFormat;
-import com.aspose.slides.Slide;
 
 public class AsposeMoveSlides
 {

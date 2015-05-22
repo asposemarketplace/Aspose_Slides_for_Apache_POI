@@ -308,5 +308,488 @@ These examples are helpful for developers who want to compare Apache POI with As
 </Folder>
 			</Folders>
         </Folder>
+                <Folder>
+            <Title>Aspose Features</Title>
+            <Description>
+Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF) SDK. These examples are helpful for developers who want to compare Apache POI with Aspose OR migrate from Apache POI to Aspose.
+            </Description>
+            <FolderName>asposefeatures</FolderName>
+            <Order>1</Order>
+            <Folders>
+<Folder>
+	<Title>Working with Presentation</Title>
+	<Description>This folder contain the examples to deal with presentations.</Description>
+	<FolderName>workingwithpresentation</FolderName>
+	<Order>1</Order>
+	<Examples>
+		<Example>
+			<Title>Converting Presentation to PDF</Title>
+			<Description>How to convert presentation to PDF.</Description>
+			<FolderName>converttoPDF</FolderName>
+			<Order>1</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Replace Text in Placeholder</Title>
+			<Description></Description>
+			<FolderName>replacetxtinplaceholders</FolderName>
+			<Order>2</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Shadow Effects on Slide Text</Title>
+			<Description></Description>
+			<FolderName>shadoweffectsontext</FolderName>
+			<Order>3</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+	</Examples>
+</Folder>
+<Folder>
+	<Title>Working with Slides</Title>
+	<Description></Description>
+	<FolderName>workingwithslides</FolderName>
+	<Order>2</Order>
+	<Examples>
+		<Example>
+			<Title>Slide Thumbnails</Title>
+			<Description></Description>
+			<FolderName>slidethumbnails</FolderName>
+			<Order>1</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Clone PPT Slide</Title>
+			<Description></Description>
+			<FolderName>cloneslide</FolderName>
+			<Order>2</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Clone Slide to Specified Position</Title>
+			<Description></Description>
+			<FolderName>cloneslidetospecificposition</FolderName>
+			<Order>3</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Working with PPT Slide Comments</Title>
+			<Description></Description>
+			<FolderName>slidecomments</FolderName>
+			<Order>4</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Managing Slide Transitions</Title>
+			<Description></Description>
+			<FolderName>slidetransitions</FolderName>
+			<Order>5</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+	</Examples>
+</Folder>
+<Folder>
+	<Title>Working with Charts</Title>
+	<Description></Description>
+	<FolderName>workingwithcharts</FolderName>
+	<Order>3</Order>
+	<Examples>
+		<Example>
+			<Title>Create PPT Charts</Title>
+			<Description></Description>
+			<FolderName>createcharts</FolderName>
+			<Order>1</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Updating Existing Chart</Title>
+			<Description></Description>
+			<FolderName>updatecharts</FolderName>
+			<Order>2</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Setting Pie Chart Sector Colors</Title>
+			<Description></Description>
+			<FolderName>piechartsectorcolor</FolderName>
+			<Order>3</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Formatting Chart Entities</Title>
+			<Description></Description>
+			<FolderName>formatchartentities</FolderName>
+			<Order>4</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Adding Chart Trend Lines</Title>
+			<Description></Description>
+			<FolderName>charttrendlines</FolderName>
+			<Order>5</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Setting Number Format for Chart Data Cell</Title>
+			<Description></Description>
+			<FolderName>numberformatforchartdatacell</FolderName>
+			<Order>6</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Adding Error Bars for Charts</Title>
+			<Description></Description>
+			<FolderName>errorbarsforcharts</FolderName>
+			<Order>7</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+	</Examples>
+</Folder>
+<Folder>
+	<Title>Working with Smart Art</Title>
+	<Description></Description>
+	<FolderName>workingwithsmartart</FolderName>
+	<Order>4</Order>
+	<Examples>
+		<Example>
+			<Title>Manage Smart Art</Title>
+			<Description></Description>
+			<FolderName>managesmartart</FolderName>
+			<Order>1</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Add SmartArt Nodes and Child Nodes</Title>
+			<Description></Description>
+			<FolderName>addnodes</FolderName>
+			<Order>2</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Remove SmartArt Nodes and Child Nodes</Title>
+			<Description></Description>
+			<FolderName>removenodes</FolderName>
+			<Order>3</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Checking Assistant Nodes in SmartArt Shapes</Title>
+			<Description></Description>
+			<FolderName>checkingassistantnodes</FolderName>
+			<Order>4</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Setting Fill Format for SmartArt Node</Title>
+			<Description></Description>
+			<FolderName>settingfillformat</FolderName>
+			<Order>5</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+	</Examples>
+</Folder>
+<Folder>
+	<Title>Working with Media Controls</Title>
+	<Description></Description>
+	<FolderName>workingwithmediacontrols</FolderName>
+	<Order>5</Order>
+	<Examples>
+		<Example>
+			<Title>Adding Media Player</Title>
+			<Description></Description>
+			<FolderName>addingmediaplayer</FolderName>
+			<Order>1</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Adding Audio Frame to Slide</Title>
+			<Description></Description>
+			<FolderName>addingaudioframe</FolderName>
+			<Order>2</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+	</Examples>
+</Folder>
+<Folder>
+	<Title>Presentation Security</Title>
+	<Description></Description>
+	<FolderName>presentationsecurity</FolderName>
+	<Order>6</Order>
+	<Examples>
+		<Example>
+			<Title>Apply Password Protection</Title>
+			<Description></Description>
+			<FolderName>passwordprotection</FolderName>
+			<Order>1</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Apply Protection with Properties Access</Title>
+			<Description></Description>
+			<FolderName>protectionwithpropertiesaccess</FolderName>
+			<Order>2</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Access Properties of Protected Presentation</Title>
+			<Description></Description>
+			<FolderName>accesspropertiesofprotectedpresentation</FolderName>
+			<Order>3</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</InputFiles>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+	</Examples>
+</Folder>
+			</Folders>
+        </Folder>
     </Folders>
 </Data>

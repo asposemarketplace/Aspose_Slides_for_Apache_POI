@@ -329,12 +329,15 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Order>1</Order>
 			<InputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\presentation.ppt</Path>
 				</DataFile>
 			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeConvert.pdf</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\AsposeConvert2.pdf</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -346,12 +349,12 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Order>2</Order>
 			<InputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\demo.pptx</Path>
 				</DataFile>
 			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeReplaceTxt.pptx</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -361,14 +364,9 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Description>How to apply shadow effects on slide text.</Description>
 			<FolderName>shadoweffectsontext</FolderName>
 			<Order>3</Order>
-			<InputFiles>
-				<DataFile>
-					<Path>..\data\</Path>
-				</DataFile>
-			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeTextShadow.pptx</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -388,12 +386,12 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Order>1</Order>
 			<InputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\presentation.pptx</Path>
 				</DataFile>
 			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeThumbnail.jpg</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -405,12 +403,12 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Order>2</Order>
 			<InputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\presentation.pptx</Path>
 				</DataFile>
 			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeClone.pptx</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -422,12 +420,12 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Order>3</Order>
 			<InputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\presentation.pptx</Path>
 				</DataFile>
 			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeCloneToPosition.pptx</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -437,14 +435,9 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Description>Shows how to work with ppt slide comments.</Description>
 			<FolderName>slidecomments</FolderName>
 			<Order>4</Order>
-			<InputFiles>
-				<DataFile>
-					<Path>..\data\</Path>
-				</DataFile>
-			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeComments.pptx</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -456,12 +449,15 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Order>5</Order>
 			<InputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\presentation.pptx</Path>
 				</DataFile>
 			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeTransition.pptx</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\AsposeTransition2.pptx</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -479,14 +475,9 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Description>How to create charts from scratch in presentations.</Description>
 			<FolderName>createcharts</FolderName>
 			<Order>1</Order>
-			<InputFiles>
-				<DataFile>
-					<Path>..\data\</Path>
-				</DataFile>
-			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeChart.pptx</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -498,12 +489,12 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Order>2</Order>
 			<InputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeChart.pptx</Path>
 				</DataFile>
 			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeChartModified.pptx</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -513,14 +504,9 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Description>Show how to set pie chart sector colors.</Description>
 			<FolderName>piechartsectorcolor</FolderName>
 			<Order>3</Order>
-			<InputFiles>
-				<DataFile>
-					<Path>..\data\</Path>
-				</DataFile>
-			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposePieChart.pptx</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -530,14 +516,9 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Description>How to format chart entities.</Description>
 			<FolderName>formatchartentities</FolderName>
 			<Order>4</Order>
-			<InputFiles>
-				<DataFile>
-					<Path>..\data\</Path>
-				</DataFile>
-			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeFormattedChart.pptx</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -547,14 +528,9 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Description>How to add chart trent lines.</Description>
 			<FolderName>charttrendlines</FolderName>
 			<Order>5</Order>
-			<InputFiles>
-				<DataFile>
-					<Path>..\data\</Path>
-				</DataFile>
-			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeChartTrendLines.pptx</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -564,14 +540,9 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Description>Example show how to set number format for chart data cells.</Description>
 			<FolderName>numberformatforchartdatacell</FolderName>
 			<Order>6</Order>
-			<InputFiles>
-				<DataFile>
-					<Path>..\data\</Path>
-				</DataFile>
-			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposePresetNumberFormat.pptx</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -581,14 +552,9 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Description>How to add error bars for charts.</Description>
 			<FolderName>errorbarsforcharts</FolderName>
 			<Order>7</Order>
-			<InputFiles>
-				<DataFile>
-					<Path>..\data\</Path>
-				</DataFile>
-			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeErrorBars.pptx</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -606,14 +572,9 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Description>How to manage smart art objects.</Description>
 			<FolderName>managesmartart</FolderName>
 			<Order>1</Order>
-			<InputFiles>
-				<DataFile>
-					<Path>..\data\</Path>
-				</DataFile>
-			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeSmartArt.pptx</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -625,12 +586,12 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Order>2</Order>
 			<InputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeSmartArt.pptx</Path>
 				</DataFile>
 			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeAddSmartArtNode.pptx</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -642,12 +603,18 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Order>3</Order>
 			<InputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeAddSmartArtNode.pptx</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\AsposeAddSmartArtNodeByPosition.pptx</Path>
 				</DataFile>
 			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeRemoveSmartArtNode.pptx</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\AsposeRemoveSmartArtNodeByPosition.pptx</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -659,12 +626,12 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Order>4</Order>
 			<InputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\presentation.pptx</Path>
 				</DataFile>
 			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeChangeAssitantNode.pptx</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -674,14 +641,9 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Description>How to set fill format for smart art nodes.</Description>
 			<FolderName>settingfillformat</FolderName>
 			<Order>5</Order>
-			<InputFiles>
-				<DataFile>
-					<Path>..\data\</Path>
-				</DataFile>
-			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeTestSmart.pptx</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -699,14 +661,9 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Description>How to add media layer in presentation slides</Description>
 			<FolderName>addingmediaplayer</FolderName>
 			<Order>1</Order>
-			<InputFiles>
-				<DataFile>
-					<Path>..\data\</Path>
-				</DataFile>
-			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeMediaPlayer.pptx</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -716,14 +673,9 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Description>How to add audio frame to slides of presentation.</Description>
 			<FolderName>addingaudioframe</FolderName>
 			<Order>2</Order>
-			<InputFiles>
-				<DataFile>
-					<Path>..\data\</Path>
-				</DataFile>
-			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeAudio.pptx</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -741,14 +693,9 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Description>How to apply password protection to slides.</Description>
 			<FolderName>passwordprotection</FolderName>
 			<Order>1</Order>
-			<InputFiles>
-				<DataFile>
-					<Path>..\data\</Path>
-				</DataFile>
-			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeProtection.pptx</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -758,14 +705,9 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Description>How to apply protection with properties access.</Description>
 			<FolderName>protectionwithpropertiesaccess</FolderName>
 			<Order>2</Order>
-			<InputFiles>
-				<DataFile>
-					<Path>..\data\</Path>
-				</DataFile>
-			</InputFiles>
 			<OutputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeProtection-PropAccess.pptx</Path>
 				</DataFile>
 			</OutputFiles>
 			<Type>Console</Type>
@@ -777,14 +719,9 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			<Order>3</Order>
 			<InputFiles>
 				<DataFile>
-					<Path>..\data\</Path>
+					<Path>..\data\AsposeProtection-PropAccess.pptx</Path>
 				</DataFile>
 			</InputFiles>
-			<OutputFiles>
-				<DataFile>
-					<Path>..\data\</Path>
-				</DataFile>
-			</OutputFiles>
 			<Type>Console</Type>
 		</Example>
 	</Examples>

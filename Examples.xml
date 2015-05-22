@@ -341,7 +341,7 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 		</Example>
 		<Example>
 			<Title>Replace Text in Placeholder</Title>
-			<Description></Description>
+			<Description>Replaces the Text placehoders of slides.</Description>
 			<FolderName>replacetxtinplaceholders</FolderName>
 			<Order>2</Order>
 			<InputFiles>
@@ -358,7 +358,7 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 		</Example>
 		<Example>
 			<Title>Shadow Effects on Slide Text</Title>
-			<Description></Description>
+			<Description>How to apply shadow effects on slide text.</Description>
 			<FolderName>shadoweffectsontext</FolderName>
 			<Order>3</Order>
 			<InputFiles>
@@ -377,13 +377,13 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 </Folder>
 <Folder>
 	<Title>Working with Slides</Title>
-	<Description></Description>
+	<Description>This folder contain the examples to deal with slides.</Description>
 	<FolderName>workingwithslides</FolderName>
 	<Order>2</Order>
 	<Examples>
 		<Example>
 			<Title>Slide Thumbnails</Title>
-			<Description></Description>
+			<Description>How to create thumbnails of slide.</Description>
 			<FolderName>slidethumbnails</FolderName>
 			<Order>1</Order>
 			<InputFiles>
@@ -400,7 +400,7 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 		</Example>
 		<Example>
 			<Title>Clone PPT Slide</Title>
-			<Description></Description>
+			<Description>How to clone any presentation slide.</Description>
 			<FolderName>cloneslide</FolderName>
 			<Order>2</Order>
 			<InputFiles>
@@ -417,7 +417,7 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 		</Example>
 		<Example>
 			<Title>Clone Slide to Specified Position</Title>
-			<Description></Description>
+			<Description>How to clone any slide to specific position.</Description>
 			<FolderName>cloneslidetospecificposition</FolderName>
 			<Order>3</Order>
 			<InputFiles>
@@ -434,7 +434,7 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 		</Example>
 		<Example>
 			<Title>Working with PPT Slide Comments</Title>
-			<Description></Description>
+			<Description>Shows how to work with ppt slide comments.</Description>
 			<FolderName>slidecomments</FolderName>
 			<Order>4</Order>
 			<InputFiles>
@@ -451,7 +451,7 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 		</Example>
 		<Example>
 			<Title>Managing Slide Transitions</Title>
-			<Description></Description>
+			<Description>How to manage slide transitions.</Description>
 			<FolderName>slidetransitions</FolderName>
 			<Order>5</Order>
 			<InputFiles>
@@ -470,13 +470,13 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 </Folder>
 <Folder>
 	<Title>Working with Charts</Title>
-	<Description></Description>
+	<Description>This folder contain the examples to deal with charts.</Description>
 	<FolderName>workingwithcharts</FolderName>
 	<Order>3</Order>
 	<Examples>
 		<Example>
 			<Title>Create PPT Charts</Title>
-			<Description></Description>
+			<Description>How to create charts from scratch in presentations.</Description>
 			<FolderName>createcharts</FolderName>
 			<Order>1</Order>
 			<InputFiles>
@@ -493,7 +493,7 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 		</Example>
 		<Example>
 			<Title>Updating Existing Chart</Title>
-			<Description></Description>
+			<Description>shows how to update exiting charts in slides of presentation.</Description>
 			<FolderName>updatecharts</FolderName>
 			<Order>2</Order>
 			<InputFiles>
@@ -510,7 +510,7 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 		</Example>
 		<Example>
 			<Title>Setting Pie Chart Sector Colors</Title>
-			<Description></Description>
+			<Description>Show how to set pie chart sector colors.</Description>
 			<FolderName>piechartsectorcolor</FolderName>
 			<Order>3</Order>
 			<InputFiles>
@@ -527,7 +527,7 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 		</Example>
 		<Example>
 			<Title>Formatting Chart Entities</Title>
-			<Description></Description>
+			<Description>How to format chart entities.</Description>
 			<FolderName>formatchartentities</FolderName>
 			<Order>4</Order>
 			<InputFiles>
@@ -544,7 +544,7 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 		</Example>
 		<Example>
 			<Title>Adding Chart Trend Lines</Title>
-			<Description></Description>
+			<Description>How to add chart trent lines.</Description>
 			<FolderName>charttrendlines</FolderName>
 			<Order>5</Order>
 			<InputFiles>
@@ -561,7 +561,7 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 		</Example>
 		<Example>
 			<Title>Setting Number Format for Chart Data Cell</Title>
-			<Description></Description>
+			<Description>Example show how to set number format for chart data cells.</Description>
 			<FolderName>numberformatforchartdatacell</FolderName>
 			<Order>6</Order>
 			<InputFiles>
@@ -578,7 +578,7 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 		</Example>
 		<Example>
 			<Title>Adding Error Bars for Charts</Title>
-			<Description></Description>
+			<Description>How to add error bars for charts.</Description>
 			<FolderName>errorbarsforcharts</FolderName>
 			<Order>7</Order>
 			<InputFiles>
@@ -597,13 +597,13 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 </Folder>
 <Folder>
 	<Title>Working with Smart Art</Title>
-	<Description></Description>
+	<Description>This folder contain the examples to deal with smart art.</Description>
 	<FolderName>workingwithsmartart</FolderName>
 	<Order>4</Order>
 	<Examples>
 		<Example>
 			<Title>Manage Smart Art</Title>
-			<Description></Description>
+			<Description>How to manage smart art objects.</Description>
 			<FolderName>managesmartart</FolderName>
 			<Order>1</Order>
 			<InputFiles>
@@ -620,7 +620,7 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 		</Example>
 		<Example>
 			<Title>Add SmartArt Nodes and Child Nodes</Title>
-			<Description></Description>
+			<Description>How to add smart art nodes and child nodes.</Description>
 			<FolderName>addnodes</FolderName>
 			<Order>2</Order>
 			<InputFiles>
@@ -637,7 +637,7 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 		</Example>
 		<Example>
 			<Title>Remove SmartArt Nodes and Child Nodes</Title>
-			<Description></Description>
+			<Description>How to remove smart art nodes and child nodes.</Description>
 			<FolderName>removenodes</FolderName>
 			<Order>3</Order>
 			<InputFiles>
@@ -654,7 +654,7 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 		</Example>
 		<Example>
 			<Title>Checking Assistant Nodes in SmartArt Shapes</Title>
-			<Description></Description>
+			<Description>how to check assistant nodes in Smart Art shapes.</Description>
 			<FolderName>checkingassistantnodes</FolderName>
 			<Order>4</Order>
 			<InputFiles>
@@ -671,7 +671,7 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 		</Example>
 		<Example>
 			<Title>Setting Fill Format for SmartArt Node</Title>
-			<Description></Description>
+			<Description>How to set fill format for smart art nodes.</Description>
 			<FolderName>settingfillformat</FolderName>
 			<Order>5</Order>
 			<InputFiles>
@@ -690,13 +690,13 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 </Folder>
 <Folder>
 	<Title>Working with Media Controls</Title>
-	<Description></Description>
+	<Description>This folder contain the examples to deal with media controls.</Description>
 	<FolderName>workingwithmediacontrols</FolderName>
 	<Order>5</Order>
 	<Examples>
 		<Example>
 			<Title>Adding Media Player</Title>
-			<Description></Description>
+			<Description>How to add media layer in presentation slides</Description>
 			<FolderName>addingmediaplayer</FolderName>
 			<Order>1</Order>
 			<InputFiles>
@@ -713,7 +713,7 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 		</Example>
 		<Example>
 			<Title>Adding Audio Frame to Slide</Title>
-			<Description></Description>
+			<Description>How to add audio frame to slides of presentation.</Description>
 			<FolderName>addingaudioframe</FolderName>
 			<Order>2</Order>
 			<InputFiles>
@@ -732,13 +732,13 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 </Folder>
 <Folder>
 	<Title>Presentation Security</Title>
-	<Description></Description>
+	<Description>This folder contain the examples to deal with presentation security.</Description>
 	<FolderName>presentationsecurity</FolderName>
 	<Order>6</Order>
 	<Examples>
 		<Example>
 			<Title>Apply Password Protection</Title>
-			<Description></Description>
+			<Description>How to apply password protection to slides.</Description>
 			<FolderName>passwordprotection</FolderName>
 			<Order>1</Order>
 			<InputFiles>
@@ -755,7 +755,7 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 		</Example>
 		<Example>
 			<Title>Apply Protection with Properties Access</Title>
-			<Description></Description>
+			<Description>How to apply protection with properties access.</Description>
 			<FolderName>protectionwithpropertiesaccess</FolderName>
 			<Order>2</Order>
 			<InputFiles>
@@ -772,7 +772,7 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 		</Example>
 		<Example>
 			<Title>Access Properties of Protected Presentation</Title>
-			<Description></Description>
+			<Description>How to access properties of protected presenatation</Description>
 			<FolderName>accesspropertiesofprotectedpresentation</FolderName>
 			<Order>3</Order>
 			<InputFiles>

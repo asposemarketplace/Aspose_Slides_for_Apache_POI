@@ -314,7 +314,7 @@ These examples are helpful for developers who want to compare Apache POI with As
 Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF) SDK. These examples are helpful for developers who want to compare Apache POI with Aspose OR migrate from Apache POI to Aspose.
             </Description>
             <FolderName>asposefeatures</FolderName>
-            <Order>1</Order>
+            <Order>2</Order>
             <Folders>
 <Folder>
 	<Title>Working with Presentation</Title>

@@ -712,18 +712,6 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 			</OutputFiles>
 			<Type>Console</Type>
 		</Example>
-		<Example>
-			<Title>Access Properties of Protected Presentation</Title>
-			<Description>How to access properties of protected presenatation</Description>
-			<FolderName>accesspropertiesofprotectedpresentation</FolderName>
-			<Order>3</Order>
-			<InputFiles>
-				<DataFile>
-					<Path>..\data\AsposeProtection-PropAccess.pptx</Path>
-				</DataFile>
-			</InputFiles>
-			<Type>Console</Type>
-		</Example>
 	</Examples>
 </Folder>
 			</Folders>

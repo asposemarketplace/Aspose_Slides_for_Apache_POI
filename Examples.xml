@@ -109,6 +109,65 @@ These examples are helpful for developers who want to compare Apache POI with As
 			</InputFiles>
 			<Type>Console</Type>
 		</Example>
+		<Example>
+			<Title>Create Presentation Header Footer</Title>
+			<Description>How to Create Header and Footer in Presentation using Aspose and Apache POI</Description>
+			<FolderName>createheaderfooter</FolderName>
+			<Order>6</Order>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\ApacheHeaderFooter.ppt</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\AsposeHeaderFooter.pptx</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Extract Header Footer from Presentation</Title>
+			<Description>How to Extract Header and Footer from Presentation</Description>
+			<FolderName>extractheaderfooter</FolderName>
+			<Order>7</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\ApacheHeaderFooter.ppt</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\AsposeHeaderFooter.pptx</Path>
+				</DataFile>
+			</InputFiles>
+			<Type>Console</Type>
+		</Example>
+		<Example>
+			<Title>Insert Auto Shapes in Presentation</Title>
+			<Description>How to insert Shapes in Presentation</Description>
+			<FolderName>createautoshapes</FolderName>
+			<Order>8</Order>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\AsposeShapes.pptx</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\ApacheShapes.ppt</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+			
+		</Example>
+		<Example>
+			<Title>Get Shapes from Presentation Slides</Title>
+			<Description>How to Extract or Get Shapes from Presentation Slides.</Description>
+			<FolderName>getshapesfromslides</FolderName>
+			<Order>9</Order>
+			<InputFiles>
+				<DataFile>
+					<Path>..\data\AutoShapes.pptx</Path>
+				</DataFile>
+			</InputFiles>
+			<Type>Console</Type>
+		</Example>
+		
 	</Examples>
 </Folder>
 <Folder>
@@ -238,6 +297,21 @@ These examples are helpful for developers who want to compare Apache POI with As
 			</OutputFiles>
 			<Type>Console</Type>
 		</Example>
+		<Example>
+			<Title>Create Bullet List</Title>
+			<Description>How to create bullet list in presentation.</Description>
+			<FolderName>createbulletedlists</FolderName>
+			<Order>7</Order>
+			<OutputFiles>
+				<DataFile>
+					<Path>..\data\AsposeBullets.ppt</Path>
+				</DataFile>
+				<DataFile>
+					<Path>..\data\ApacheBullets.ppt</Path>
+				</DataFile>
+			</OutputFiles>
+			<Type>Console</Type>
+		</Example>		
 	</Examples>
 </Folder>
 <Folder>
@@ -723,7 +797,7 @@ Contain the Aspose features that are not available in Apache POI SL (HSLF + XSLF
 				</DataFile>
 			</InputFiles>
 			<Type>Console</Type>
-		</Example>		
+		</Example>
 	</Examples>
 </Folder>
 			</Folders>
